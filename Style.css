@@ -1,0 +1,19 @@
+h1{
+    font-style: italic;
+    color: rgb(230, 94, 56);
+}
+body
+{
+    background-image: url("https://img.freepik.com/free-photo/movie-background-collage_23-2149876011.jpg?t=st=1680353724~exp=1680354324~hmac=8f6a23bc189e157ac6f6a15d3940bbfbfdf4d7da465f3896cda9a526bf19d2ed");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+  }
